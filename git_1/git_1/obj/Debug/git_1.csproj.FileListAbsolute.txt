@@ -1,0 +1,7 @@
+E:\21_2018\Кодзаев\git_1\git_1\obj\Debug\git_1.csprojAssemblyReference.cache
+E:\21_2018\Кодзаев\git_1\git_1\obj\Debug\git_1.csproj.CoreCompileInputs.cache
+E:\21_2018\Кодзаев\git_1\git_1\bin\Debug\git_1.exe.config
+E:\21_2018\Кодзаев\git_1\git_1\bin\Debug\git_1.exe
+E:\21_2018\Кодзаев\git_1\git_1\bin\Debug\git_1.pdb
+E:\21_2018\Кодзаев\git_1\git_1\obj\Debug\git_1.exe
+E:\21_2018\Кодзаев\git_1\git_1\obj\Debug\git_1.pdb

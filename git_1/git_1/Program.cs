@@ -11,6 +11,7 @@ namespace git_1
         static void Main(string[] args)
         {
             Console.WriteLine("проверка связи");
+            Console.WriteLine("изменения в программе");
         }
     }
 }
